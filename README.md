@@ -8,6 +8,6 @@ The research I have conducted on foreign investment has been reported by The NY 
 
 I have also published several articles on U.S. trade policy in [**The National Interest**](https://nationalinterest.org/profile/ben-smith). 
 
-Feel free to follow me on **[Twitter]**(https://twitter.com/benjamindbsmith) where I occasionally enjoy posting things related to trade disputes and being a Brit abroad in the U.S. 
+Feel free to follow me on **[Twitter](www.twitter.com/benjamindbsmith)** where I occasionally enjoy posting things related to trade disputes and being a Brit abroad in the U.S. 
 
 Any inquiries welcome at ben.smith@colostate.edu
