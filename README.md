@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+### Welcome!
 
-You can use the [editor on GitHub](https://github.com/bensmith-ipe/BenjaminDSmith/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In May 2019 I graduated from Colorado State University with an M.A. in Political Science (specializing in International Political Economy). I received my B.A. from Keele University, located in the United Kingdom. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research focuses on the politics of trade and foreign investment, investor-state dispute settlement (ISDS), and financial services. Broadly speaking, I am interested in the institutions that regulate the global economic system.  
 
-### Markdown
+The research I have conducted on foreign investment has been reported by The NY Times, Huff Post, The Globe and Mail, Bilaterals.org, and others. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have also published several articles on U.S. trade policy in The National Interest. 
 
-```markdown
-Syntax highlighted code block
+Feel free to follow me on Twitter where I occasionally enjoy posting things related to trade disputes and being a Brit abroad in the U.S. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bensmith-ipe/BenjaminDSmith/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Any inquiries welcome at ben.smith@colostate.edu
