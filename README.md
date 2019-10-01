@@ -1,5 +1,7 @@
 ### Welcome!
 
+![IMG_0544](https://user-images.githubusercontent.com/55719134/66002704-237b0d80-e459-11e9-862f-def1506bf299.PNG)
+
 In May 2019 I graduated from **[Colorado State University](www.colostate.edu)** with an M.A. in Political Science (specializing in International Political Economy). I received my B.A. from **[Keele University](www.keele.ac.uk)**, located in the United Kingdom. 
 
 My research focuses on the politics of trade and foreign investment, investor-state dispute settlement (ISDS), and financial services. Broadly speaking, I am interested in the institutions that regulate the global economic system.  
