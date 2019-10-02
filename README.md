@@ -14,4 +14,4 @@ Feel free to follow me on **[Twitter](www.twitter.com/benjamindbsmith)** where I
 
 Check out my C.V. [here](https://github.com/bensmith-ipe/BenjaminDSmith/files/3678605/BenjaminDSmith_C.V._8.19.pdf)
 
-Any inquiries welcome at ben.smith@colostate.edu
+Any inquiries welcome at ben(dot)smith(at)colostate(dot)edu
