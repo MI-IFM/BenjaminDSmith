@@ -1,8 +1,6 @@
 ### Welcome!
 
-
-![Headshot](https://user-images.githubusercontent.com/55719134/66002985-cb90d680-e459-11e9-8a2f-6b46eab886b6.jpeg)
-
+<img src="https://user-images.githubusercontent.com/55719134/66002985-cb90d680-e459-11e9-8a2f-6b46eab886b6.jpeg" alt="Header" width="342" height="373">
 
 In May 2019 I graduated from **[Colorado State University](www.colostate.edu)** with an M.A. in Political Science (specializing in International Political Economy). I received my B.A. from **[Keele University](www.keele.ac.uk)**, located in the United Kingdom. 
 
