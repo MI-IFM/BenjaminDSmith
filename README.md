@@ -1,4 +1,4 @@
-### Welcome!
+## Welcome!
 
 <img src="https://user-images.githubusercontent.com/55719134/66002985-cb90d680-e459-11e9-8a2f-6b46eab886b6.jpeg" alt="Header" width="342" height="373">
 
