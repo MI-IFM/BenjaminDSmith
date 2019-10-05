@@ -12,8 +12,6 @@ I have also published several articles on U.S. trade policy in **[The National I
 
 Feel free to follow me on **[Twitter](www.twitter.com/benjamindbsmith)** where I occasionally enjoy posting things related to trade disputes and being a Brit abroad in the U.S. 
 
-Check out my C.V. [here](https://github.com/bensmith-ipe/BenjaminDSmith/files/3678605/BenjaminDSmith_C.V._8.19.pdf)
-<p>to page 2</p>
-<a href="cvpage.html" target="_self">Link</a>
+Check out my C.V. <a href="cvpage.html" target="_self">Here</a>
 
 Any inquiries welcome at ben(dot)smith(at)colostate(dot)edu
