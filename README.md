@@ -15,7 +15,6 @@ Feel free to follow me on **[Twitter](www.twitter.com/benjamindbsmith)** where I
 Check out my C.V. [here](https://github.com/bensmith-ipe/BenjaminDSmith/files/3678605/BenjaminDSmith_C.V._8.19.pdf)
 <html>
 <body>
-    <h1>Welcome</h1>
     <p>to page 2</p>
     <a href="cvpage.html" target="_self">Link</a>
 </body>
