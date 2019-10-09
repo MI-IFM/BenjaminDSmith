@@ -1,5 +1,13 @@
 ## Welcome!
 
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
 <img src="https://user-images.githubusercontent.com/55719134/66063733-d9e1ff80-e4f8-11e9-827c-775b355fd888.PNG" alt="Header" width="187" height="333">
 
 I hold an M.A. in Political Science (specializing in International Political Economy) from **[Colorado State University](https://colostate.edu)**. I received my B.A. from **[Keele University](https://keele.ac.uk)**, located in the United Kingdom. 
