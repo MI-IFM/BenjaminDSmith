@@ -1,7 +1,7 @@
 ## Welcome!
 
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="BenjaminDSmith/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="bensmith-ipe.github.io/BenjaminDSmith/favicon.ico">
 </head>
 
 <img src="https://user-images.githubusercontent.com/55719134/66063733-d9e1ff80-e4f8-11e9-827c-775b355fd888.PNG" alt="Header" width="187" height="333">
