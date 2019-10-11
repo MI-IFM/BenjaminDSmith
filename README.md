@@ -1,7 +1,9 @@
 ## Welcome!
 
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+  <link rel="shortcut icon" type="image/png" href="/img/favicon-32x32.png">
+  <link rel="shortcut icon" sizes="32x32" href="/img/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="/img/favicon-32x32.png">
 </head>
 
 <img src="https://user-images.githubusercontent.com/55719134/66063733-d9e1ff80-e4f8-11e9-827c-775b355fd888.PNG" alt="Header" width="187" height="333">
