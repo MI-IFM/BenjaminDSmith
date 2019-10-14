@@ -1,11 +1,5 @@
 ## Welcome!
 
-<head>
-  <link rel="shortcut icon" type="image/png" href="/img/favicon-32x32.png">
-  <link rel="shortcut icon" sizes="32x32" href="/img/favicon-32x32.png">
-  <link rel="apple-touch-icon" href="/img/favicon-32x32.png">
-</head>
-
 <img src="https://user-images.githubusercontent.com/55719134/66063733-d9e1ff80-e4f8-11e9-827c-775b355fd888.PNG" alt="Header" width="187" height="333">
 
 I hold an M.A. in Political Science (specializing in International Political Economy) from **[Colorado State University](https://colostate.edu)**. I received my B.A. from **[Keele University](https://keele.ac.uk)**, located in the United Kingdom. 
@@ -18,7 +12,7 @@ I have also published several articles on U.S. trade policy in **[The National I
 
 Follow me on **[Twitter](https://twitter.com/benjamindbsmith)** where I occasionally enjoy posting things related to trade disputes and being a Brit abroad in the U.S. 
 
-Check out my C.V. <a href="https://github.com/bensmith-ipe/BenjaminDSmith/files/3693740/CV_US.pdf" target="_blank">Here</a>
+Check out my C.V. <a href="[BSmithCV10:14.pdf](https://github.com/bensmith-ipe/BenjaminDSmith/files/3725484/BSmithCV10.14.pdf)" target="_blank">Here</a>
 
 Any inquiries welcome at ben(dot)smith(at)colostate(dot)edu
 
