@@ -6,7 +6,7 @@ Hello! I am a Research Analyst with the **[Milken Institute's](https://milkenins
 
 I hold an M.A. in Political Science (specializing in International Political Economy) from **[Colorado State University](https://colostate.edu)**. I received my B.A. from **[Keele University](https://keele.ac.uk)**, located in the United Kingdom. 
 
-My research focuses on the politics of trade and foreign investment, investor-state dispute settlement (ISDS), and financial services. My work on foreign investment has been reported on by **[The New York Times](https://www.nytimes.com/2018/10/10/business/us-china-investment-cfius.html), [Huff Post](https://www.huffingtonpost.ca/2019/04/30/isds-canada-trade-ccpa_a_23719635/), [The Globe and Mail](https://www.theglobeandmail.com/business/commentary/article-canadian-investors-need-to-stop-suing-foreign-governments-over/), [Bilaterals.org](https://www.bilaterals.org/?canadian-mining-companies-are)**, and others. 
+My research focuses on the politics of trade and foreign investment, investor-state dispute settlement (ISDS), and financial services. My work on foreign investment has been reported on by **[The New York Times](https://www.nytimes.com/2018/10/10/business/us-china-investment-cfius.html), [Huff Post](https://www.huffingtonpost.ca/2019/04/30/isds-canada-trade-ccpa_a_23719635/), [The Globe and Mail](https://www.theglobeandmail.com/business/commentary/article-canadian-investors-need-to-stop-suing-foreign-governments-over/)** among others.
 
 I have also published several articles on U.S. trade policy in **[The National Interest](https://nationalinterest.org/profile/ben-smith)**. 
 
