@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/55719134/66063733-d9e1ff80-e4f8-11e9-827c-775b355fd888.PNG" alt="Header" width="187" height="333">
 
-Hello! I am a Research Analyst with the **[Milken Institute](https://milkeninstitute.org)**. I support the Institute’s research agenda on international finance & macroeconomics, which includes producing original research projects related to financial intermediation, capital flows, & financial stability.
+I am a Research Analyst with the **[Milken Institute](https://milkeninstitute.org)**. I support the Institute’s research agenda on international finance & macroeconomics, which includes producing original research projects related to financial intermediation, capital flows, & financial stability.
 
 I hold an M.A. in Political Science (specializing in International Political Economy) from **[Colorado State University](https://colostate.edu)**. I received my B.A. from **[Keele University](https://keele.ac.uk)**, located in the United Kingdom. 
 
