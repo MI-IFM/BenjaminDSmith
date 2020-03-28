@@ -10,7 +10,7 @@ My work on foreign investment has been reported on by **[The New York Times](htt
 
 I have also published several articles on U.S. trade policy in **[The National Interest](https://nationalinterest.org/profile/ben-smith)**. 
 
-Follow me on **[Twitter](https://twitter.com/benjamindbsmith)** and check out my C.V. <a href="https://github.com/bensmith-ipe/BenjaminDSmith/files/3725484/BSmithCV10.14.pdf" target="_blank">Here</a>
+Follow me on **[Twitter](https://twitter.com/benjamindbsmith)** and check out my C.V. <a href="https://sites.google.com/view/benjamindsmith-cv/home" target="_self">Here</a>
 
 Any inquiries welcome at bsmith(at)milkeninstitute(dot)org
 
