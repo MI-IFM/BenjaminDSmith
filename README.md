@@ -14,4 +14,4 @@ Follow me on **[Twitter](https://twitter.com/benjamindbsmith)** and check out my
 
 Any inquiries welcome at bsmith(at)milkeninstitute(dot)org
 
-<script src="https://gist.github.com/bensmith-ipe/bb4780a592a46c58ca96f5d67cfa33ab.js"></script>
+
